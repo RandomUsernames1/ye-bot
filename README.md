@@ -38,7 +38,7 @@ cd ye-bot</code></pre>
       <pre><code>npm install ws</code></pre>
     </li>
     <li>Run the bot:
-      <pre><code>node index.js</code></pre>
+      <pre><code>node ye.js </code></pre>
     </li>
   </ol>
 
