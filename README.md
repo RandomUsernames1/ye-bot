@@ -32,7 +32,7 @@
   <ol>
     <li>Clone the repository:
       <pre><code>git clone https://github.com/RandomUsernames1/ye-bot.git
-cd kanye-quote-bot</code></pre>
+cd ye-bot</code></pre>
     </li>
     <li>Install dependencies:
       <pre><code>npm install ws</code></pre>
