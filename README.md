@@ -31,7 +31,7 @@
   <h2>Setup</h2>
   <ol>
     <li>Clone the repository:
-      <pre><code>git clone https://github.com/yourusername/kanye-quote-bot.git
+      <pre><code>git clone https://github.com/RandomUsernames1/ye-bot.git
 cd kanye-quote-bot</code></pre>
     </li>
     <li>Install dependencies:
