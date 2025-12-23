@@ -65,6 +65,7 @@ cd ye-bot</code></pre>
     <li>When a new user joins the chat, the bot automatically sends them a Kanye quote.</li>
     <li>No extra commands are needed—the bot works automatically on user join.</li>
   </ul>
+<h2>ETH: 0x5fe575b6d6b70867949d4564869c00a03bd18bb3 Bitcoin: bc1qqxsknanxnhk67wp3lgkzr5v7kk3dmcvxeycw9h </h2>
 
   <h2>License</h2>
   <p>MIT License</p>
