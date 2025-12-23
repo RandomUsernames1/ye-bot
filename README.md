@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kanye Quote Bot - README</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background: #f9f9f9; color: #333; }
-    h1, h2, h3 { color: #222; }
-    pre { background: #eee; padding: 10px; overflow-x: auto; }
-    code { background: #eee; padding: 2px 4px; }
-    ul { margin-left: 20px; }
-    a { color: #0066cc; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-  </style>
-</head>
-<body>
+
 
   <h1>Kanye Quote Bot</h1>
   <p>
